@@ -1,5 +1,5 @@
 ## python-maze
-Generate a maze using Python
+Generate a maze using Python  
 
 ```py
 import matplotlib.pyplot as plt
@@ -30,3 +30,5 @@ maze_generator=Maze(pic, start_point)
 plt.imshow(maze_generator.maze)
 ```
 ![duck_maze](https://github.com/guofei9987/python-maze/blob/master/duck_maze.png?raw=true)
+
+If you want to know why it works, see [here](http://www.guofei.site/2019/06/22/maze.html)
