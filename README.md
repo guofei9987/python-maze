@@ -32,3 +32,6 @@ plt.imshow(maze_generator.maze)
 ![duck_maze](https://github.com/guofei9987/python-maze/blob/master/duck_maze.png?raw=true)
 
 If you want to know why it works, see [here](http://www.guofei.site/2019/06/22/maze.html)
+
+Go and try other pictures
+![heart_maze](https://github.com/guofei9987/python-maze/blob/master/heart.png?raw=true)
