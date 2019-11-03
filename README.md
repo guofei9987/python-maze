@@ -1,6 +1,8 @@
 ## python-maze
 Generate a maze using Python  
 
+Download this repository, then use `maze.py` as below:
+
 ```py
 import matplotlib.pyplot as plt
 import numpy as np
